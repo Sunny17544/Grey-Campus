@@ -1,0 +1,19 @@
+
+1. Learnt Ruby Basic concepts under Ruby Primer (Ascent) " rubymonk.com ".
+    The concepts are:- 
+            1. Exceptions ( Completed the modules from 00 to 02).
+            2. Declaring Data ( Completed the modules from 00 to 03).
+            3. Collections ( Completed up to module 02). "module 03" is pending and I am working on it.
+2. Practised some programs for better understanding of syntax are in "rubymonk.com". The concepts that I worked on are:-
+        1. Exceptions (begin-rescue-end) method.
+        2. Backtrace method.
+        3. Exception handler.       
+        4. Error code handling.       
+        5. Throw-Catch methods and their alternatives.       
+        6. Literals.       
+        7. Enumerators and Enumerable.       
+        8. Iterate, Filtrate And Transform.
+3. Configured my Git-Hub and added my daily report and the programs to my "Grey Campus " repository. Here's the link to the Github repo.
+https://github.com/Sunny17544/Grey-Campus/tree/master/%5BDaily%20Report%5D%2018th%20May%202021
+4. Practised some more programs on the learned concepts and added them to the Github repository.
+5. Changed the Commit messages in a readable manner on GitHub (Grey-Campus) Repository.
