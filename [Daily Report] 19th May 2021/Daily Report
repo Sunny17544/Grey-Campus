@@ -1,0 +1,20 @@
+Dear Team,
+
+Here is my daily report status on learning the Ruby Programming language. I am sharing the following information.
+
+1. Learnt Ruby Basic concepts under Ruby Primer (Ascent) " rubymonk.com ".
+    The concepts are:- 
+            1. Collections( Completed the remaining modules from 002to 03).
+            2. Finding and Fixing Bugs( Completed the modules from 00 to 03).
+            3. Ruby's Object Model( Completed the modules 02 to 05) but working on some concepts for better understanding.
+2. Practised some programs for better understanding of syntax are in "rubymonk.com". The concepts that I worked on are:-
+        1. Fibonacci sequences using search and each method.
+        2. Singleton method.
+        3. gsub! mutations.       
+        4. Superclasses.       
+        5. Freezing and cloning methods.
+3. Configured my Git-Hub and added my daily report and the programs to my "Grey Campus " repository. Here's the link to the Github repo.
+https://github.com/Sunny17544/Grey-Campus/tree/master/%5BDaily%20Report%5D%2019th%20May%202021
+4. Practised some more programs on the learned concepts and added them to the Github repository.
+5. Learned about how the MVC Architecture model works.
+6. Successfully Installed and Configured Ruby on Rails and created a "DEPOT" Application.
