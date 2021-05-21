@@ -1,0 +1,16 @@
+Dear Team,
+
+Here is my daily report status on Working with the Ruby on Rails Application.
+
+1. Created another simple ruby on the rails app using CRUD operations.
+2. Studied MVC Architecture in rails and understand the process of working in an Application view.
+3. Learnt How validations are used in ruby on rails app in "guides.rubyonrails.org" website.
+4. Added my Ruby on Rails App "Depot" in my Github Repository.
+5. Added my Ruby on Rails App "Blogs" Which is created on 20th May 2021 in my Github Repository.
+
+The tasks that are to be completed by Tomorrow are:
+
+1. Unit Testing in "Ruby on Rails",  source: "guides.rubyonrails.org/testing.html"
+2. Should Perform Model Testing and write some test cases.
+3. How to Implement images to the "Ruby on Rails" App.
+4. About Scaffold in "Ruby on Rails" and its implementation in the "Depot" Application.
