@@ -1,0 +1,16 @@
+Here is my daily status on Working with the Ruby on Rails Application.
+
+1. Implemented Cart Functionalities in "Depot App" by scaffolding the required Cart-related additional pages named "Cart", "line_items", and "order_items".
+2. Nedd to study some functionalities and methods in  Unit Testing on controllers.
+3. Learned about some helpers in the implementation of Cart in Depot Application.
+4. Studied database migration changes via terminal.
+5. Tried to implemented mathematical calculations to calculate the value of the cart about the Depot App need to study more in this area.
+6. To check my "Depot App". Here's the Github link to it:
+   https://github.com/Sunny17544/Depot-App 
+
+ The Tasks that are to be completed by tomorrow are: 
+
+1.Implement the unit testing for controllers.
+2. Study about Ajax and the usage of it in building rails application.
+3. To create a Smarter Cart, handling errors, and finish the cart functionalities.
+4. Study about Caching of partial results. 
