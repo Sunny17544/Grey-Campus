@@ -1,0 +1,13 @@
+Here is my daily report status on Working with the Ruby on Rails Application.
+
+1. Created "Add to Card" Functionalities App separately but will integrate these functionalities in my "Depot App".
+2. Tried to implement Mathematical Operations in Card App for calculations of the Amount in it. 
+3. Learned about Helpers, Associations, and using the console for the interaction with databases.
+4. Done Unit testing and written some test cases with success and failures.
+
+The Tasks that are to be completed by Tomorrow are:
+
+1. Make the Card functionalities work properly in the "Depot App".
+2. Create related (Line items and Products) models and controllers for "Card" to interlink with the Card Functionalities.
+3. Should learn about Functional testing of Controllers.
+4.  Study about Caching of partial results.
