@@ -1,0 +1,16 @@
+Here is my daily status on learning and working with the Ruby on Rails Application.
+
+1. Studied rails routing and their different ways of implementations.
+2. learned how to define multiple resources at the same time.
+3. Learned about Nested resources and shallow nesting.
+4. Studied HTTP methods in application overview. 
+5. Changed some functionalities of "Add to Cart" in my "DEPOT-App" but still need to do some work on that. Check my Depot-App in GitHub here:
+https://github.com/Sunny17544/Depot-App
+
+
+The tasks that are to be completed by tomorrow are:
+
+1. Study the Active Record Associations documentation in ruby.org 
+     source: https://guides.rubyonrails.org/association_basics.html
+2. To understand the various types of Active Record associations.
+3. Revise the concepts in an In-Depth-View for better understanding.
