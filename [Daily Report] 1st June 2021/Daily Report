@@ -1,0 +1,15 @@
+Here is my daily status on learning and working with Ruby on Rails.
+
+1. Studied about Associations and their types.
+2. Got to know that how to declare associations between Active Record models.
+3. Learnt how to add database-level constraints like foreign-key, unique and non-unique index.
+4. Done some changes in my Depot-App related to "Add to Cart" functionalities.
+    Here is my Github Link to my "Depot-App"
+    https://github.com/Sunny17544/Depot-App
+
+The tasks that are to be completed by tomorrow are:
+
+1.To understand the various types of Active Record associations.
+2. To know about Active Record callbacks. source: https://guides.rubyonrails.org/active_record_callbacks.html
+3. To know how to use the methods added to the models by creating associations.
+source: https://guides.rubyonrails.org/association_basics.html
