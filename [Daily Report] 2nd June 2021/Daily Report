@@ -1,0 +1,16 @@
+Here is the daily status report on learned  and working with the Ruby on Rails Application.
+
+1. Learned Active Record Associations in an In-depth view.
+2. Worked with associations by creating some models and practised through console.
+3. Studied about Active Record Callbacks.
+4. Learned the life cycles of Active Record objects and how to create callback methods that respond to events in the object life cycle. need to explore some more in Active Record Callbacks.
+
+The tasks that are to be completed by tomorrow are:
+
+1. Should study about "stimulus.js" and include in "Depot App".
+2. To add a functionality to "Add to Cart" button that whenever a product is being added to the cart it should pop up with a alert box with the product name along with the price of that product. This should be done by using "stimulus.js".
+3. Study about WebPacker.
+
+Will update the Depot-App after adding the functionality of "Stimulus.js"
+Here is my Github Repo of my Depot-App :
+https://github.com/Sunny17544/Depot-App
