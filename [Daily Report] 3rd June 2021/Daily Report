@@ -1,0 +1,13 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Learned how to install "Stimulus" in my rails application 
+2. Studied about WebPacker, source: https://edgeguides.rubyonrails.org/webpacker.html
+3. Learned how to integrate stimulus in HTML along with Javascript.
+4. While using stimulus, I learned about controllers, modules, identifiers, and scopes and learned how to write controllers and actions.
+source: https://stimulus.hotwire.dev/reference/controllers
+
+The tasks that are to be completed by tomorrow are:
+
+1. Study about Yarn and bundle in rails.
+2. Still need to work on "stimulus.js" for adding the functionality of the alert box. Will update the Depot app in my GitHub: https://github.com/Sunny17544/Depot-App
+3. Study about npm in rails.
