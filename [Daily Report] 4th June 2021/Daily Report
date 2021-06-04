@@ -1,0 +1,14 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Learnt about Actions, Targets, Values and controllers in Stimulus.
+2. Worked in adding stimulus components like alerts and modals in the application.
+3. Using Stimulus added a button that shows an alert popup and displays the product information but need to conclude some changes to finalize.
+Here's my GitHub link to my Depot App: 
+https://github.com/Sunny17544/Depot-App
+
+Tasks that are to be completed by this weekend are:
+
+1. Work on testing for controllers.
+2. Try to work more in stimulus for better understanding in different criteria on various cases.
+3. Try to implement some success and failure cases on the basis of Stimulus operations.
+4. Study on creating Checkout Functionality.
