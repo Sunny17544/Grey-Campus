@@ -1,0 +1,15 @@
+Dear Team,
+
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Learned about lifecycles in the stimulus.
+2. Studied Data Attributes in the stimulus.
+3. Tried to implement the add to cart functionality on the server-side but need to work on it more.
+4. Added a text field in ine-items that displays a number of items in the cart.
+Changes have been saved in my Github Repository on Depot-App, Here's my GitHub link to my Depot App: 
+https://github.com/Sunny17544/Depot-App
+
+Tasks that are to be completed by this weekend are:
+
+1. Learn about fetch calls using stimulus.
+2. Implement Add to Cart functionality using fetch call's like the usage of the single page application by taking server-side responses along with the success and failures alert popups.
