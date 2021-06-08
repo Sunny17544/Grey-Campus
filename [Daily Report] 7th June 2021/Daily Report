@@ -1,0 +1,16 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Using Stimulus added an alert button to display the product details in that alert message.
+2. Learned briefly about Controllers in the stimulus Concepts.
+3. Added Product Images to the Cart Functionalities.
+4. An subtotal filed is added to the Cart which will display the product price.
+5. Learned briefly about Check Out Functionality.
+Changes have been saved in my Github Repository on Depot-App, Here's my GitHub link to my Depot App: 
+https://github.com/Sunny17544/Depot-App
+
+Tasks that are to be completed by this weekend are:
+
+1. Learn about lifecycles in the stimulus.
+2. Study about Data Attributes.
+3. In LIne items page instead of submitting through Post and Get requests to use through xhr call using stimulus.
+4. Show the number of products added to the cart when a product is added through an alert box or modal using stimulus if not successful show an alert or modal popup that product adding to the cart is not successful.
