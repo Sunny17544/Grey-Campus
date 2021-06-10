@@ -1,0 +1,13 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Learned about Fetch call for making Post request to the cart
+2.Added a button to the line_items page which adds the product using fetch call and renders the changes within the page.
+3. learned about data attributes.
+Changes have been saved in my Github Repository on Depot-App, Here's my GitHub link to my Depot App: 
+https://github.com/Sunny17544/Depot-App
+
+Tasks that are to be completed by this weekend are:
+
+1. Complete the add to cart functionality using stimulus.
+2. Display the cart_items in the product that shows the usage without rendering the pages like a single page application.
+3. Try to implement using the (data-url) attribute without using a static URL in the controller.
