@@ -1,0 +1,14 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Learned about Webpack watch and learned the differences between "--watch" and "--hot".
+2. Displaying the cart items on the products page using stimulus.
+3. Working on Add to cart functionality to make it looks like a Single Page Application.
+
+The task that should be completed by tomorrow is:
+
+1. On the products page a button named (Add to Cart) should be there, by clicking it the product should be added to the backend.  
+2. In the front-end the count should be displayed.
+3. On Adding the product, if the process is successful It should throw a confirmation message.
+if any validation is not correct throw an error message that " The product is not added to cart".
+4. This whole process should be done by using Stimulus js.
+5. There should be no static code in the front end.
