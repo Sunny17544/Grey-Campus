@@ -1,0 +1,14 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Added an (Add to Cart) button on the products page. On adding the product, the product will be added to the cart.
+2. Added an attribute that shows the count of the products in the cart.
+3. Tried to make the URLs dynamic but getting errors still working on it and will complete that by this weekend.
+4. Didn't update the Depot-App in my GitHub repository yet. After completing the add to cart functionality will update the app in Github.
+
+Here's the link to the Depot-app in my Github repository:
+https://github.com/Sunny17544/Depot-App
+
+Tasks that are to be completed by this weekend are:
+
+1. Make the URLs dynamic in the stimulus controller.
+2. Complete the add to cart functionality process.
