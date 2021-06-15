@@ -1,0 +1,12 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Completed the cart functionality of adding a product using stimulus.
+2. Added the Cart Count to the line items page.
+3. Learned about how to implement functions dynamically using stimulus.
+4. Briefly learned about check-out functionality.
+
+Tasks that are to be completed by tomorrow are:
+
+1. Complete the quantity error occurring during adding the product to the cart.
+2. Make the cart functionality of the Depot app in a basic structural way.
+2. Have an Idea about the flow of check-out functionality.
