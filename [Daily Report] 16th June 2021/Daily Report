@@ -1,0 +1,16 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Learned about the flow of Check-Out functionality.
+2. Using stimulus added a quantity field in my stimulus controller, which adds the quantity of the products in the cart.
+3. Studied the check-out process and the approach to doing it.
+Need to do some changes in the code and will push the code as early as possible. 
+Here's the link to my Github repository of my "Depot-App".
+https://github.com/Sunny17544/Depot-App
+ 
+Tasks that are to be completed by tomorrow are:
+
+1. Structure the Check-out functionality using a flow diagram.
+2. Get a complete flow of understanding in an MVC Architecture view.
+3. Try to implement the structure using flowcharts for better understanding.
+
+
