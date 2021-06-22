@@ -1,0 +1,19 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Created a model and a controller for the checkout process.
+2. A form is created for taking the details of the user.
+3. Tried to use stripe process but getting errors. Need to study more on stripe functionality.
+4. Studied about charges in stripe, 
+     1. How to create a charge and
+     2. How to retrieve a charge.
+source: https://stripe.com/docs/api/charges/create
+
+Tasks that are to be completed by tomorrow are:
+
+1. Implement the Stripe functionality in the depot app without any errors.
+2. Need to do some changes to the checkout functionality.
+3. Study more about Stripe functionality.
+source: https://stripe.com/docs/api
+4. Didn't push the code to the Github repository of my depot app due to the errors once resolved will update the repository.
+Here's my GitHub repository link:
+https://github.com/Sunny17544/Depot-App
