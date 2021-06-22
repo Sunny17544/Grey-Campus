@@ -1,0 +1,13 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Created a flowchart of Checkout-functionality and made some changes.
+2. Studied stripe methods and learned how to use stripe for checkout functionality.
+3. learnt about charges in stripe. Need to study more on stripe.
+reference: https://stripe.com/docs/api/charges/object
+
+Tasks that are to be completed by this weekend are:
+
+1. Implement the checkout functionality in the depot app. The code will be updated in my GitHub repository "Depoot-App". 
+Here's the link to my repository: https://github.com/Sunny17544/Depot-App
+2. Use stripe for the payment process.
+3. Should learn how to create charges and how to take charge responses.
