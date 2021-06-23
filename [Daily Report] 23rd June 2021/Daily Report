@@ -1,0 +1,12 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Added payment type in the form using an enum with validations.
+2. Studied stripe functionality.
+3. Tried to integrate the stripe functionality with the app but getting errors trying to resolve them.
+4. Created payments controller and model and working on it.
+
+Tasks that are to be completed by tomorrow are:
+
+1. Complete the stripe functionality.
+2. Resolve the errors.
+3. To store the charge_id in the payments table.
