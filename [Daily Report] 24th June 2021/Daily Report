@@ -1,0 +1,12 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Studied stripe functionality in an in-depth view.
+2. Implemented Stripe functionality in the Depot-App.
+3. Storing Charge_id in the payments table.
+3. Working on some errors occurring in handling associations on Stripe functionalities and will resolve them.
+
+Tasks that are to be completed by tomorrow are:
+
+1. Resolve the errors.
+2. Learn about sending confirmation emails.
+3. Implement some test cases and validations.
