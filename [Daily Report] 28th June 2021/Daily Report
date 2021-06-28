@@ -1,0 +1,11 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Tested on validations for stripe Functionality.
+2. Learned and worked on Action Mailers.
+4. Studied user's email confirmation to users through stripe. Tried to implement it But getting errors trying to resolve the issue and will update the GitHub repository.
+5. Created a user model for authentication.
+
+Tasks that are to be completed by tomorrow are:
+
+1. Complete the email confirmation of the user's functionality and resolve the errors to work by sending email confirmations.
+2. To work on User Authentication.
