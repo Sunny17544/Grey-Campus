@@ -1,0 +1,10 @@
+Here is the daily status report on learned and working with the Ruby on Rails Application.
+
+1. Resolved the errors regarding the stripe functionality.
+2. Studied about sending confirmation emails. Tried to implement it will complete the email configuration.
+3. Started working on Action Mailbox.
+
+Tasks that are to be completed by tomorrow are:
+
+1. Complete the User Authentication.
+2. Work with the Action Mailbox.
