@@ -1,0 +1,22 @@
+Here is the daily status report on learning and working with the Ruby on Rails Application.
+
+1. Worked on Receiving emails with action Mailbox.
+2. Completed setting the action mailbox and active storage in the Depot Application.
+3. Created Support Requests to store from the mailbox.
+4. Run some test cases.
+5. Implemented Action Text to enable rich text editing for responding to support requests.
+
+Changes have been made and pushed in my Github Repository.
+Here's the link to it:
+https://github.com/Sunny17544/depot
+
+Work done in HubSpot.
+
+1. Studied about Pagespeed-Insights.
+2. Using the Pagespeed-Insights tool checked the Odinschool Webpages speed and submitted the data regarding it.
+
+Tasks that are to be completed by tomorrow are:
+
+1. Run some test cases on Action Mailbox with support requests.
+2. Learn about Pagespeed-Insights in-depth view.
+3. Should work on Possible Optimizations for better speed in Odinschool webpages.
